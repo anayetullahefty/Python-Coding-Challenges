@@ -22,4 +22,4 @@ My main goal is to help people learn Python easily. We want to make Python acces
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="github" height="40" style="max-width: 100%;"></a>
   <a href="https://www.linkedin.com/in/mohammad-a-u-efty/" rel="nofollow"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" style="max-width: 100%;"></a></p>
   
- ![image](https://github.com/anayetullahefty/beecrowd_beginner_python3/assets/57069481/85946dd9-2069-4909-9c6c-953dd42ae88c)
+
