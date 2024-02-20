@@ -4,14 +4,16 @@
 <h2>🚀Overview</h2>
 This repository hosts a collection of Python problems solved from various coding platforms such as <b>Beecrowd, LeetCode, HackerRank, and CodeSignal</b>. Whether you're a beginner looking to improve your coding skills or an experienced developer sharpening your problem-solving abilities, you'll find a diverse range of algorithmic challenges and coding exercises here. Feel free to explore, contribute, and learn from the solutions provided by the community."
 
-🔗 GitHub repository: (https://github.com/anayetullahefty/beecrowd_beginner_python3)
+🔗 GitHub repository: <b>(https://github.com/anayetullahefty/Python-Coding-Challenges)</b>
 
 <h2>🧿 Goal</h2>
 My main goal is to help people learn Python easily. We want to make Python accessible to everyone, whether you're just starting out or want to improve your skills. This repository provides solved Python problems from different platforms to support your learning journey. 
 
+<h2>📃 Python Practice Platforms </h2>
+Explore the following platforms to practice Python coding skills through a variety of challenges, exercises, and competitions. These resources offer opportunities to enhance your problem-solving abilities, algorithmic thinking, and coding proficiency in Python.
+<h4><a href="https://github.com/anayetullahefty/Python-Coding-Challenges/tree/main/Beecrowd_beginner_python3" rel="nofollow">Beecrowd Beginner Level</a> </h4>
+
 <h2 align="center">🚀 Let's make Python programming simpler together!🏃🏻‍♂️</h2>
-<h2>📃 List </h2>
-<h3><a href="https://github.com/anayetullahefty/Python-Coding-Challenges/tree/main/Beecrowd_beginner_python3" rel="nofollow">Beecrowd Beginner Level</a> </h3>
 
 <h2 align="left">☕ Connect with me!</h2> 
 
